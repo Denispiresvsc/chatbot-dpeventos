@@ -1,0 +1,9 @@
+Execute essas alterações no JS _________
+
+Atualização 1:
+
+Atualização 2:
+
+Faça essas atualizações e ajuste a lógica de programação para que tudo funcione perfeitamente. Não alterar, adicione ou remova absolutamente nada que não estejam diretamente relacionadas com às mudanças aqui solicitadas.
+
+Analise e mostre o plano de execução. Solicite minha aprovação. 

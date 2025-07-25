@@ -1,0 +1,16 @@
+# Arquivos de Dependências (instalados no servidor)
+node_modules/
+
+# Arquivo de Estado dos Usuários (específico do ambiente)
+userState.json
+userState.json.tmp
+
+# Arquivos de Sessão e Cache do WhatsApp (específico do ambiente)
+.wwebjs_auth/
+.wwebjs_cache/
+
+# Arquivo de Variáveis de Ambiente (contém segredos)
+.env
+
+# Logs do PM2
+*.log
