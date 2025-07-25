@@ -114,7 +114,7 @@ function menuPrincipal() {
 Conectando você aos melhores eventos do Brasil! 🛣️
 
 👋🏼 *Olá! Seja bem-vindo(a).*
-Digite o número para saber mais: teste
+Digite o número para saber mais:
 
 🚌 *Excursões Disponíveis*
 1️⃣ - Festa do Peão de Barretos
